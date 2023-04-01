@@ -22,22 +22,21 @@ Shift+Ctrl+u
 𥎪 U+253AA 矢攵
 𢪛 U+22A9B 扌攵 agr
 䒨 U+44A8 vgf
-| 亻间 |  $3008B | 𰂋 | tulk
+𰂋 $3008B tulk
 𢎨 U+223A8 nmt
 弔 U+5F14𨑩 U+28469 nmh
 𫼛 U+2BF1B anmh anm
 伄 U+4F04 tnmh tnm
 𠇁 U+201C1 tnmh
 𢪉 U+22A89 anmh 
-𠝤 U+20764 gvdk   濌 䳯
-𬩵 扩展E U+2CA75  jhn jhnf 䦿钟
+𠝤 U+20764 gvdk       濌 䳯
+𬩵 U+2CA75  jhn jhnf        䦿钟
 佫 tqyj
 酪 caqj
 㦴 zgqj
 垎 dqj
 
 
-爱愛
 
 
 # customized characters:
@@ -138,7 +137,7 @@ Shift+Ctrl+u
 | 矢里 |  $10FFA2 | 􏾢 | gfkd
 | 䒨里 |  $10FFA1 | 􏾡 | vgkd
 | 艹 弓矢里 |  $10FFA0 | 􏾠 | vnkd vngk
-
+|----|---|----|-----|-------
 | 艹 矢攵 |  $10FDFF | 􏷿 | vggr
 | 艹 弓矢攵 |  $10FDFE | 􏷾 | vngg
 | 又末 |  $10FDFD | 􏷽 | byfc
