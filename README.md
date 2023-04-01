@@ -27,7 +27,7 @@ Shift+Ctrl+u
 弔 U+5F14𨑩 U+28469 nmh
 𫼛 U+2BF1B anmh anm
 伄 U+4F04 tnmh tnm
-𠇁 U+201C1 tnmh
+𠇁 U+201C1 tnmh 
 𢪉 U+22A89 anmh 
 𠝤 U+20764 gvdk       濌 䳯
 𬩵 U+2CA75  jhn jhnf        䦿钟
@@ -36,7 +36,7 @@ Shift+Ctrl+u
 㦴 zgqj
 垎 dqj
 
-
+兦
 
 
 # customized characters:
@@ -144,10 +144,10 @@ Shift+Ctrl+u
 | 扌𢎨 |  $10FDFC | 􏷼 | anm
 | 寻弔 |  $10FDFB | 􏷻 | banm
 | 亻寻弔 |  $10FDFA | 􏷺 | tban
-| 亻查 |  $10FDF9 | 􏷹 | tckf    馇 㜁 碴  皶 猹  
+| 亻查 |  $10FDF9 | 􏷹 | tckf    渣 馇 㜁 碴   猹  
 | 亻㐅查 |  $10FDF8 | 􏷸 | trkf
 | 㐅查 |  $10FDF7 | 􏷷 | rykf
-| 查刂 |  $10FDF6 | 􏷶 | ckfk
+| 查刂 |  $10FDF6 | 􏷶 | ckfk   皶
 | 左刂 |  $10FDF5 | 􏷵 | xaka xdka
 | 右刂 |  $10FDF4 | 􏷴 | xaka xjka
 | 共刂 |  $10FDF3 | 􏷳 | vfka vrka
