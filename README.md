@@ -144,7 +144,7 @@ Shift+Ctrl+u
 | 扌𢎨 |  $10FDFC | 􏷼 | anm
 | 寻弔 |  $10FDFB | 􏷻 | banm
 | 亻寻弔 |  $10FDFA | 􏷺 | tban
-| 亻查 |  $10FDF9 | 􏷹 | tckf    渣 馇 㜁 碴   猹  
+| 亻查 |  $10FDF9 | 􏷹 | tckf    渣 馇 㜁 碴   猹
 | 亻㐅查 |  $10FDF8 | 􏷸 | trkf
 | 㐅查 |  $10FDF7 | 􏷷 | rykf
 | 查刂 |  $10FDF6 | 􏷶 | ckfk   皶
@@ -152,8 +152,8 @@ Shift+Ctrl+u
 | 右刂 |  $10FDF4 | 􏷴 | xaka xjka
 | 共刂 |  $10FDF3 | 􏷳 | vfka vrka
 | 寻刂 |  $10FDF2 | 􏷲  | bak bdak
-| 且各  |  $10FDF1 |  􏷱  | laqj    略 䪶 鴡 雎 刞 䢸  
-| 或各  |  $10FDF0 | 􏷰 | zgqj    
+| 且各  |  $10FDF1 |  􏷱  | laqj    略 䪶 鴡 雎 刞 䢸
+| 或各  |  $10FDF0 | 􏷰 | zgqj
 | 亻查各  |  $10FDEF | 􏷯  | tcqj
 | 各且   |  $10FDEE | 􏷮 |         鵅  组 袓 姐 耝 殂 
 | 各或   |  $10FDED | 􏷭 | 
